@@ -1,0 +1,11 @@
+h2 {
+    color: indigo;
+    background-color: plum;
+    text-align: center;
+}
+
+button {
+    color: magenta;
+    background-color: cyan;
+    align-items: center;
+}
